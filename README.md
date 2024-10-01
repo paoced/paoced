@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Power BI
 - 💞️ I’m looking to collaborate on data analysis projects using Python, SQL, and Tableau.”
 - 📫 How to reach me: my mail es wepsa7@gmail.com, my phone number is +52 5533335313
-- 😄 Pronouns: "She"
+- 😄 Pronouns: "She/ Her"
 - ⚡ Fun fact: I love crocheting
 
 <!---
