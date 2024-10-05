@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there :wave:! I´m Pao Flores, a tech enthusiast with a recent specialization in data analysis. <br>My journey in IT began with an intensive boot camp that taught me how to extract valuable insights from large volumes of data. <br>I'm excited to apply my analytical skills to solve problems and create innovative solutions. <br><br>Let's transform data into smart decisions!
+Hi there :wave:! I´m Pao Flores, a tech enthusiast with a recent specialization in data analysis. :pencil: <br>My journey in IT began with an intensive boot camp that taught me how to extract valuable insights from large volumes of data. <br>I'm excited to apply my analytical skills to solve problems and create innovative solutions. <br><br> :tada: Let's transform data into smart decisions:bangbang:
 
 
 ## 🌐 Socials:
