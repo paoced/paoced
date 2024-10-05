@@ -1,4 +1,4 @@
-![data-analyst]()
+![data-analyst](IMAGEN_GITHUB.jpg)
 
 
 # 💫 About Me:
