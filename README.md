@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola! Soy Pao Flores, una apasionada del mundo de la tecnología, <br>con una especialización reciente en análisis de datos. <br>Mi viaje en TI comenzó con un boot camp intensivo que me enseñó a <br>extraer información valiosa a partir de grandes volúmenes de datos. <br>Estoy emocionada por aplicar mis habilidades analíticas para resolver <br>problemas y crear soluciones innovadoras. <br><br>¡Vamos a transformar datos en decisiones acertadas!
+Hola! Soy Pao Flores, una apasionada del mundo de la tecnología, con una especialización reciente en análisis de datos. <br>Mi viaje en TI comenzó con un boot camp intensivo que me enseñó a extraer información valiosa a partir de grandes volúmenes de datos. <br>Estoy emocionada por aplicar mis habilidades analíticas para resolver problemas y crear soluciones innovadoras. <br><br>¡Vamos a transformar datos en decisiones acertadas!
 
 
 ## 🌐 Socials:
