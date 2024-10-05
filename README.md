@@ -1,4 +1,4 @@
-![data-analyst](IMAGEN_GITHUB.jpg)
+![data-analyst](https://github.com/paoced/Img_profile.git)
 
 
 # 💫 About Me:
